@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="left" width="30%" src="hm_replace_her.jpeg">
+<img align="left" width="36%" src="hm_replace_her.jpeg">
 
 ```
 misterx-dev@github
@@ -14,13 +14,16 @@ Learning: SQL
 Location: NoneType
 
 ```
-```
+```diff
 GitHub
 ------------------
-Current Personal Project: [](https://github.com/MISTERX-DEV/python_cli_rpg)
-
-![Photo](hm_replace_her.jpeg)
-Actuality 
+Current Personal Project: PCR (python cli rpg)
+```
+```python
+def hello():
+    print("Hello Beatiful WORLD!")
+    return True
+hello()
 ```
 
 <br clear="left"/>
