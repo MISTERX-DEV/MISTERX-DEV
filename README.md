@@ -2,7 +2,7 @@
 ```
 > neofetch | git status | whoami
 ```
-<img align="left" width="36%" src="hm_replace_her.jpeg">
+<img align="left" width="36%" src="hm_replace_her.png">
 
 ```
 misterx-dev@github
