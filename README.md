@@ -13,10 +13,14 @@ Languages: Python, C++, Java
 Learning: SQL
 Location: NoneType
 
+```
+```
 GitHub
 ------------------
-Actuality project: PCR (python cli rpg)
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Current Personal Project: [](https://github.com/MISTERX-DEV/python_cli_rpg)
+
+![Photo](hm_replace_her.jpeg)
+Actuality 
 ```
 
 <br clear="left"/>
