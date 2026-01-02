@@ -5,19 +5,19 @@ Hi there 👋
 ## Двухколоночная разметка | Two-Column Layout
 
 <div style="display: flex; gap: 30px;">
-<div style="width: 70%;">
+<div style="width: 50%;">
 
 ### Код / Code
-python
+```python
 def hello_world():
     print("Hello, World!")
     return True
 
 hello_world()
-
+```
 
 </div>
-<div style="width: 50;">
+<div style="width: 50%;">
 
 ### Описание / Description
 Это простая функция на Python, которая:
