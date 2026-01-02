@@ -27,33 +27,4 @@ Here are some ideas to get you started:
 
 ## Двухколоночная разметка | Two-Column Layout
 
-<table>
-<tr>
-<td width="50%">
-
-### Код / Code
-```python
-def hello_world():
-    print("Hello, World!")
-    return True
-
-hello_world()
-```
-
-</td>
-<td width="50%">
-
-### Описание / Description
-Это простая функция на Python, которая:
-- Выводит текст "Hello, World!" в консоль
-- Возвращает значение `True`
-- Демонстрирует базовую структуру функции
-
-**This is a simple Python function that:**
-- Prints "Hello, World!" to the console
-- Returns the value `True`
-- Demonstrates basic function structure
-
-</td>
-</tr>
-</table>
+dsfdsggds
