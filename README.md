@@ -1,8 +1,14 @@
 ## Hi there 👋
-Hi there 👋
 
-## Двухколоночная разметка
+<img align="left" width="50%" src="hm_replace_her.jpeg">
 
-| | |
-|---|---|
-| This is | working! |
+```
+misterx-dev@github
+------------------
+Status: Developer/Student
+Languages: Python, C++, Java
+Learning: C++
+Location: NoneType
+```
+
+<br clear="left"/>
