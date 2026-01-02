@@ -4,8 +4,7 @@ Hi there 👋
 
 ## Двухколоночная разметка | Two-Column Layout
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
+<div style="display: inline-block; width: 48%; vertical-align: top;">
 
 ### Код / Code
 ```python
@@ -16,8 +15,7 @@ def hello_world():
 hello_world()
 ```
 
-  </div>
-  <div style="flex: 1;">
+</div><div style="display: inline-block; width: 48%; vertical-align: top; margin-left: 20px;">
 
 ### Описание / Description
 Это простая функция на Python, которая:
@@ -30,5 +28,4 @@ hello_world()
 - Returns the value `True`
 - Demonstrates basic function structure
 
-  </div>
 </div>
