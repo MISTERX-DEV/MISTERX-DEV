@@ -5,10 +5,19 @@
 ```
 misterx-dev@github
 ------------------
+OS: Windows 10
+Server: NAS
+VPN: Custom VLESS
 Status: Developer/Student
 Languages: Python, C++, Java
-Learning: C++
+Learning: SQL
 Location: NoneType
+
+GitHub
+------------------
+Last project:
+Commits:
+Stars:
 ```
 
 <br clear="left"/>
