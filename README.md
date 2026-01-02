@@ -15,13 +15,8 @@ Location: NoneType
 
 GitHub
 ------------------
-Last project:
-Commits:
-Stars:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misterx-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+Actuality project: PCR (python cli rpg)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=misterx-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 <br clear="left"/>
