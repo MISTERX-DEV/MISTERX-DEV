@@ -8,16 +8,16 @@ Hi there 👋
 <div style="width: 70%;">
 
 ### Код / Code
-python
+```python
 def hello_world():
     print("Hello, World!")
     return True
 
 hello_world()
-
+```
 
 </div>
-<div style="width: 50;">
+<div style="width: 50%;">
 
 ### Описание / Description
 Это простая функция на Python, которая:
