@@ -10,7 +10,7 @@ misterx-dev@github
 OS: Windows 10
 Server: NAS
 VPN: Custom VLESS
-Status: Developer/Junior/Student, Engineer
+Status: Developer/Junior/Student/Autodidact, Engineer
 Languages: Python, C++, Java
 Learning: SQL, C++
 Programmer experience: 5 years
@@ -19,7 +19,7 @@ Location: NoneType
 ```
 GitHub
 ------------------
-Current Personal Project: PCR (python cli rpg)
+Current Actuality Personal Project: PCR (python cli rpg)
 ```
 ```
 > I am a 2nd year university student.
