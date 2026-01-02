@@ -12,7 +12,6 @@ Status: Developer/Student
 Languages: Python, C++, Java
 Learning: SQL
 Location: NoneType
-
 ```
 ```diff
 GitHub
