@@ -1,6 +1,6 @@
-## Hi there 👋
+```## Hi there 👋```
 ```
-> neofetch | git status | whoami
+> fastfetch | git status | whoami
 ```
 <img align="left" width="36%" src="hm_replace_her.png">
 
@@ -14,14 +14,17 @@ Status: Developer/Junior/Student/Autodidact, Engineer
 Languages: Python, C++, Java
 Learning: SQL, C++
 Programmer experience: 5 years
-Location: NoneType
+Location: I need to know why you need this?
 ```
 ```
 GitHub
 ------------------
-Current Actuality Personal Project: PCR (python cli rpg)
+Current Personal Project: PCR (python cli rpg)
+Current joint project:: None
 ```
 ```
+Whoami
+------------------
 > I am a 2nd year university student.
 > Programming experience - 5 years
 main activity - server and Backend.
