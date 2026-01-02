@@ -4,8 +4,8 @@ Hi there 👋
 
 ## Двухколоночная разметка | Two-Column Layout
 
-<div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
+<div style="display: flex; gap: 30px;">
+<div style="width: 70%;">
 
 ### Код / Code
 ```python
@@ -17,7 +17,7 @@ hello_world()
 ```
 
 </div>
-<div style="flex: 1;">
+<div style="width: 50;">
 
 ### Описание / Description
 Это простая функция на Python, которая:
