@@ -33,3 +33,8 @@ main activity - server and Backend.
 ```
 
 <br clear="left"/>
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=python)](https://github.com/MISTERX-DEV?tab=repositories)
+</div>
