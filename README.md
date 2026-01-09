@@ -37,4 +37,6 @@ main activity - server and Backend.
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=python)](https://github.com/MISTERX-DEV?tab=repositories)
+[![Python](https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=python)](https://github.com/MISTERX-DEV?tab=repositories)
+
 </div>
