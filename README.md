@@ -40,3 +40,16 @@ main activity - server and Backend.
 [![Python](https://img.shields.io/badge/CLI_RPG-white?style=for-the-badge&logo=python)](https://github.com/AbsoluteCuumbl4/Proekt_Pi)
 
 </div>
+
+```
+> fastfetch | git status | whoami
+```
+<img align="right" width="36%" src="hm_replace_her2.png">
+<img align="left" src="hm_replace_her3.png">
+
+```
+misterx-dev@github
+------------------
+        Aboba
+```
+<br clear="right"/>
