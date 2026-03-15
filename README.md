@@ -20,7 +20,7 @@ Location: I need to know why you need this?
 GitHub
 ------------------
 Current Personal Project: None
-Current joint project: CLI RPG
+Current joint project: None
 ```
 ```
 Whoami
